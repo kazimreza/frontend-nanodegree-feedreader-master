@@ -23,7 +23,7 @@ To view the Project
 [GitHub](https://github.com/kazimreza/frontend-nanodegree-feedreader-master)</li>
 <li>Open the project</li>
 <li>Run ‘index.html’ in a browser</li>
- 
+
 [Live Project Demo](https://cdn.rawgit.com/kazimreza/frontend-nanodegree-feedreader-master/master/index.html)
 
  
